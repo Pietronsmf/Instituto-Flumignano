@@ -138,8 +138,13 @@ window.ESTUDOS = {
     date: "23/09/2025",
     excerpt: "Pesquisa associa alterações nos vasos da retina aos estágios iniciais da doença.",
     p: [
-      "Uma pesquisa aponta a possibilidade de diagnosticar o Alzheimer por meio de exames oftalmológicos de rotina, a partir de alterações nos vasos sanguíneos da retina associadas aos estágios iniciais da doença — potencialmente anos antes dos primeiros sintomas.",
-      "A neurologista Dra. Viviane Zétola, do Instituto Flumignano e professora da UFPR, destaca a importância de integrar neurologia e oftalmologia e de investigar comorbidades como catarata e glaucoma, já correlacionadas ao risco de demências."
+      "O artigo escrito por Acácio Morais, publicado na Folha de São Paulo, apresenta uma pesquisa inovadora que aponta para a possibilidade de diagnosticar o Alzheimer por meio de exames oftalmológicos de rotina. A investigação, realizada inicialmente em camundongos geneticamente modificados, mostrou alterações nos vasos sanguíneos da retina associadas aos estágios iniciais da doença. A perspectiva é que, no futuro, seja possível identificar sinais da demência com até 20 anos de antecedência aos primeiros sintomas clínicos.",
+
+      "A neurologista Dr. Viviane Zétola, do Instituto Flumignano e professora da UFPR, destacou no texto que, na prática clínica, pacientes idosos com queixas de memória já passam por exames de audiometria, mas não há protocolo semelhante para aqueles com queixas visuais. Ela reforça a necessidade de investigar comorbidades, como catarata e glaucoma, que já apresentam correlação estabelecida com o risco de demências. Essa visão contribui para reforçar a importância da integração entre neurologia e oftalmologia na prevenção e no diagnóstico precoce.",
+
+      "O artigo ainda ressalta estudos internacionais que associam problemas oculares à neurodegeneração, incluindo pesquisas de larga escala que apontam a catarata como fator de risco significativo para demências. Embora a tecnologia de detecção pela retina ainda esteja em fase experimental, especialistas enfatizam que medidas preventivas já podem reduzir a probabilidade da doença, como manter atividades cognitivas e sociais, praticar exercícios, ter alimentação saudável e evitar álcool e tabaco.",
+
+      "Leia a reportagem completa em: Folha de São Paulo"
     ],
     embed: null,
     source: { name: "Reproduzido da Folha de São Paulo (Acácio Morais)", url: "https://www1.folha.uol.com.br/equilibrioesaude/2025/09/no-futuro-alzheimer-podera-ser-diagnosticado-a-partir-de-exames-de-vista-de-rotina-indica-estudo.shtml" }
@@ -149,8 +154,31 @@ window.ESTUDOS = {
     date: "06/05/2025",
     excerpt: "Três doenças sem cura conhecida, nas quais o diagnóstico precoce preserva a qualidade de vida.",
     p: [
-      "Alzheimer, lúpus e fibromialgia não têm cura conhecida — e, por isso, o diagnóstico precoce é decisivo para manter a qualidade de vida. As três são tema de campanha de conscientização.",
-      "Em entrevista, a neurologista Dra. Viviane Flumignan Zétola (UFPR) e a reumatologista Dra. Andrieli Mehl falam sobre sintomas, cuidados e o impacto dessas condições no dia a dia dos pacientes."
+      "Alzheimer, lúpus e fibromialgia. O que essas doenças têm em comum? Aparentemente nada, mas as três não têm cura conhecida pela medicina e todas são tema da campanha Fevereiro Roxo, criada para conscientizar a população sobre essas patologias. Dessa forma, a campanha tem como propósito disseminar informações, como sintomas e tratamentos, e reforçar que o diagnóstico precoce ajuda a manter a qualidade de vida.",
+
+      "Para falar sobre o tema, a PROMED entrevistou as médicas Viviane Flumignan Zétola (CRM 11898), neurologista e professora da Universidade Federal do Paraná (UFPR), e Andrieli Mehl (CRM 27690), reumatologista no Instituto de Oncologia do Paraná (IOP).",
+
+      "PROMED – Qual a importância em se falar sobre o Fevereiro Roxo?",
+
+      "Viviane Flumignan Zétola –A conscientização sobre doenças prevalentes na população é sempre crucial para que medidas preventivas, terapêuticas ou de suporte sejam tomadas. Fevereiro Roxo inclui a demência de Alzheimer, uma doença prevalente principalmente pelo aumento da longevidade que temos atingido com o avanço médico. Aproximadamente 25% das pessoas na faixa etária de 85 anos serão acometidas. O reconhecimento precoce, as medidas para manutenção da qualidade de vida é a grande diferença no cuidado.",
+
+      "PROMED – Como a doença de Alzheimer se caracteriza? ",
+
+      "Viviane Flumignan Zétola –O Alzheimer é uma doença neurológica degenerativa caracterizada pelo acúmulo de proteínas anormais no cérebro, causando disfunção em sinapses e morte de neurônios. Aproximadamente 85% dos pacientes têm perda de memória como manifestação inicial. A doença afeta as lembranças de fatos recentes, esquecendo rotinas, compromissos, senhas, aniversários… Em 15% das vezes a manifestação pode iniciar com mudanças de comportamento como apatia, perda de iniciativa e de interesse geral,  além de casos de agitação, agressividade e alucinações. A intensidade é suficiente para gradualmente prejudicar a autonomia de uma pessoa. A frequência de demência a partir dos 65 anos de idade dobra aproximadamente a cada 05 anos, e cerca de 50-60% dos casos de demência são secundários da doença de Alzheimer. Com 80 ou 90 anos a proporção de pacientes é significativa. Há outros tipos de demência e a avaliação médica é essencial para o diagnóstico.",
+
+      "PROMED – Quais os sinais da fibromialgia e cuidados necessários para o paciente?",
+
+      "Andrieli Mehl –A fibromialgia é caracterizada por um quadro de dores difusas – acometendo mais do que uma região do corpo  (são dores musculares, articulares, abdominais, cefaleia, dor pélvica crônica), acompanhadas por um ou mais dos sintomas a seguir: fadiga, alteração de humor (ansiedade, depressão), distúrbio do sono (insônia, sono não reparador), alterações intestinais como síndrome do intestino irritável, entre outros. É uma condição decorrente de uma disfunção  no sistema de percepção e processamento da dor, que gera amplificação dolorosa.",
+
+      "O mais importante é ser avaliado pelo médico reumatologista e ao ser feito o diagnóstico, compreender que não se trata de inflamação em todo o corpo ou de uma doença degenerativa e sim de uma disfunção nos sistemas que controlam nossa percepção à dor. Uma vez diagnosticada, a atividade física é a terapia de maior benefício para o tratamento e deve ser regular e de progressão lenta. Quando há distúrbios de sono e humor, podem ser prescritas medicações que possam auxiliar no equilíbrio e melhor funcionamento desses três pilares: sono, humor e dor. A psicologia com terapia cognitivo-comportamental, e a psiquiatria, além do fisioterapeuta e educador físico, são as especialidades que podem trabalhar em conjunto com o reumatologista no melhor manejo da fibromialgia, conforme necessidade de cada paciente.",
+
+      "PROMED – Quais as causas do lúpus e como o dia a dia do paciente é afetado?",
+
+      "Andrieli Mehl –Lúpus é uma doença autoimune crônica, caracterizada por períodos de flare (ativação) e remissão. As doenças autoimunes compartilham entre si o seu aparecimento devido a uma junção de fatores genéticos e ambientais. Dentre os ambientais, podemos citar infecções virais, exposição solar e fatores hormonais. Quando se tem a predisposição genética – herdada ou não – e se é exposto a algum desses fatores ambientais, pode ser iniciado  um processo de ataque às estruturas do próprio corpo (que passam a ser reconhecidas como estranhas)  e desenvolvimento da autoimunidade. No caso do lúpus, esse reconhecimento de partículas presentes no núcleo das células pode ocorrer em  differentes órgãos e sistemas e por isso os sintomas são variados entre os pacientes.",
+
+      "Assim, o dia a dia do paciente com lúpus  que esteja com doença ativa é afetado de acordo com o órgão/tecido acometido (pele, articulações, pulmões, rins, cérebro, nervos, células do sangue), em forma menos ou mais grave, variando desde lesões de pele extensas ou não, a limitação de mobilidade por artrite, alterações cognitivas, falta de ar, sangramentos… Não só  a atividade do lúpus interfere no dia a dia do paciente, mas também o tratamento. Quanto mais grave for a doença, mais fortes serão os medicamentos imunossupressores usados, com efeitos colaterais gastrointestinais e maior risco de infecções, por exemplo. É muito importante o paciente entender qual a gravidade do seu lúpus, quais sequelas pode ter se não controlado, para então melhor aderir ao tratamento e conseguir controlar a atividade da doença o mais rápido possível. Passando a fase de maior atividade, é reduzida a dose ou trocada a terapia por medicações com menos efeitos colaterais. Pensando em medidas para reduzir o número de flares (ativação) da doença, deve-se  cuidar para que o sistema imune esteja o mais regulado possível! Como fazer isso? Boa aderência ao tratamento, seguir acompanhamento clínico e com os exames periódicos com o reumatologista para detectar alterações, mesmo que pequenas, já no início quando são mais fáceis de serem controladas, além de alimentação saudável, atividade física, medidas de controle do estresse (bom sono, cuidados com a mente) e fotoproteção! Sim,  a fotoproteção (uso de proteção solar) é importantíssima porque o sol ajuda a expor partículas do núcleo das nossas células que estimularão a ativação autoimune  nos pacientes que têm lúpus.",
+
+      "Reprodução: Promed"
     ],
     embed: null,
     source: { name: "Entrevista à PROMED", url: "" }
@@ -166,13 +194,8 @@ window.ESTUDOS = {
   "insonia": {
     title: "Insônia",
     date: "20/05/2024",
-    excerpt: "Estudo de uso de melatonina em spray nasal para o tratamento da insônia.",
-    images: ["assets/estudos/insonia.jpeg"],
-    p: [
-      "Estudo de uso de melatonina em spray nasal para o tratamento da insônia.",
-      "Para participar você precisa: ter 18 anos ou mais; ter insônia primária (dificuldade de iniciar o sono); não ter hábitos tabagistas; não trabalhar no período noturno; não fazer insulinoterapia.",
-      "Investigadora principal: Dra. Viviane H. Zétola (CRM 11.898). Saiba mais e entre em contato: (41) 99964-0194 / (41) 99838-8560."
-    ],
+    excerpt: "Convite para participar de pesquisa clínica sobre o sono.",
+    p: ["O Instituto Flumignano convida pessoas que sofrem com insônia a participar de pesquisa clínica, com oportunidade de avaliação e acompanhamento para quem tem dificuldade para dormir e descansar."],
     embed: null,
     source: null
   },
@@ -189,8 +212,7 @@ window.ESTUDOS = {
     date: "12/10/2022",
     excerpt: "Conteúdo acadêmico sobre o Forame Oval Patente (FOP).",
     p: ["Material acadêmico do Instituto Flumignano com informações sobre o Forame Oval Patente (FOP) e sua relação com o cuidado neurológico e cardiovascular."],
-    embed: { type: "drive", id: "10TM9gWciJBY7OlCb3bEJJ_vwmQFHy9S2" },
-    links: [{ label: "Abrir material no Google Drive", url: "https://drive.google.com/file/d/10TM9gWciJBY7OlCb3bEJJ_vwmQFHy9S2/view", kind: "drive" }],
+    embed: null,
     source: null
   },
   "setembro-roxo": {
@@ -221,13 +243,8 @@ window.ESTUDOS = {
     title: "Campanha Mulheres também infartam",
     date: "16/03/2021",
     excerpt: "Campanha de conscientização da SBHCI sobre infarto em mulheres.",
-    p: [
-      "Com o objetivo de alertar para os riscos do infarto no público feminino, a Sociedade Brasileira de Hemodinâmica e Cardiologia Intervencionista (SBHCI) lançou a campanha “Mulheres Também Infartam”.",
-      "A ação reúne orientações para prevenir as doenças cardiovasculares e alertas sobre os sinais e sintomas do infarto, chamando também a atenção dos profissionais de saúde para a importância de identificar e tratar a doença rapidamente, prevenindo e reduzindo mortes.",
-      "Confira o vídeo da Dra. Viviane Flumignan a respeito da campanha."
-    ],
-    embed: { type: "mp4", src: "assets/estudos/mulheres-infartam.mp4" },
-    links: [{ label: "Campanha no Instagram", url: "https://www.instagram.com/mulherestambeminfartam/", kind: "external" }],
+    p: ["Saiba mais sobre a campanha “Mulheres também infartam”, da SBHCI, que alerta para os sinais do infarto na população feminina, muitas vezes subdiagnosticado."],
+    embed: { type: "mp4", src: "https://institutoflumignano.com.br/wp-content/uploads/2021/03/dra-viviane-flumignan.mp4" },
     source: { name: "Campanha SBHCI", url: "" }
   },
   "neurossonologia": {
@@ -242,9 +259,17 @@ window.ESTUDOS = {
     title: "Higiene do Sono",
     date: "28/08/2020",
     excerpt: "Orientações para um sono melhor e mais reparador.",
-    p: ["Orientações de higiene do sono — hábitos e cuidados que ajudam a melhorar a qualidade do sono e o descanso, importantes para a saúde do cérebro e do coração. Baixe o material completo abaixo."],
+    p: ["● Dormir apenas o tempo necessário para se sentir descansado. Se com 8 horas já se sente bem, evite dormir mais do que 8 - 9 horas, mesmo que não tenha compromisso no dia.",
+        "● Crie uma rotina de acordar sempre no mesmo horário, independente se for fim de semana ou não e de ter tido insônia na noite anterior. Então, se o horário estabelecido for oito horas da manhã, policie-se para sempre acordar neste horário, mesmo que tenha dormido pouco por conta da insônia na noite anterior (p.ex.4 horas). Você pode passar o dia com sono, mas isso vai ajudá-lo a regular seu ciclo circadiano (ciclo do sono).",
+        "● Se você tem insônia à noite, recomenda-se evitar tirar qualquer forma de cochilo ao longo do dia. Depois que o sono estiver normal, não há problemas tirar pequenos cochilos.",
+        "● A prática regular de exercícios ajuda a regular o ciclo circadiano. Contudo, é importante que esses exercícios sejam feitos em horários distantes da hora de dormir. Evite fazer exercícios 4 horas ou menos antes de dormir. O melhor horário para a prática dos exercícios é pela manhã.",
+        "● Mesmo que você não repare diretamente, dormir em ambientes barulhentos diminuí a qualidade do sono e pode levar a insônia. Se certifique de que o lugar em que você dorme não tem muitos barulhos. Se o lugar em que dorme for barulhento, recomenda-se comprar um “tapa-ouvidos”.",
+        "● Evitar banho quente ou frio antes de dormir.",
+        "● Evite ingerir qualquer tipo de estimulantes depois das 18 horas. Estimulantes mais comuns são: café, Coca-Cola, guaraná, chimarrão e chocolate.",
+        "● Evite fazer atividades muito estimulantes na hora antes de dormir (p.ex. ver filmes de ação, games no computador/online). Desligue tudo e preferir leitura com luz direcionada.",
+        "● Preferencialmente usar a cama apenas como lugar para dormir (evite trabalhar ou assistir televisão na cama), ir somente quando o sono chegar.",
+      ],
     embed: null,
-    links: [{ label: "Higiene do Sono (PDF)", url: "assets/estudos/higiene-do-sono.pdf", kind: "pdf" }],
     source: null
   },
   "artigos-covid": {
@@ -258,35 +283,26 @@ window.ESTUDOS = {
   "download-dietas": {
     title: "Download de Dietas",
     date: "17/08/2020",
-    excerpt: "Materiais de orientação nutricional para download.",
-    p: ["Materiais de orientação nutricional disponibilizados pelo Instituto Flumignano para apoio a pacientes e familiares. Baixe as dietas abaixo."],
+    excerpt: "Material de orientação nutricional para download.",
+    p: ["Material de orientação nutricional disponibilizado pelo Instituto Flumignano para apoio a pacientes e familiares."],
     embed: null,
-    links: [
-      { label: "Dieta — Ácido Úrico", url: "assets/estudos/dietas/dieta-cido-rico.pdf", kind: "pdf" },
-      { label: "Dieta — Colesterol", url: "assets/estudos/dietas/dieta-colesterol.pdf", kind: "pdf" },
-      { label: "Dieta — Proteína", url: "assets/estudos/dietas/dieta-da-protena.pdf", kind: "pdf" },
-      { label: "Dieta — Diabetes", url: "assets/estudos/dietas/dieta-diabetes.pdf", kind: "pdf" },
-      { label: "Dieta — Hipertensão Arterial", url: "assets/estudos/dietas/dieta-hipertenso-arterial.pdf", kind: "pdf" },
-      { label: "Dieta — Triglicérides", url: "assets/estudos/dietas/dieta-triglicerdios.pdf", kind: "pdf" }
-    ],
     source: null
   },
   "jornada-ufpr": {
     title: "I Jornada de Clínica Sintetizada UFPR",
     date: "02/07/2020",
     excerpt: "Evento acadêmico de atualização em clínica médica.",
-    p: ["Participação do corpo clínico na I Jornada de Clínica Sintetizada da UFPR, evento de atualização e educação médica continuada. Assista ao primeiro dia abaixo."],
-    embed: { type: "mp4", src: "https://institutoflumignano.com.br/videos/I_Jornada_de_Cl%C3%ADnica_Sintetizada_UFPR%20-%20Primeiro%20Dia.mp4" },
+    p: ["Participação do corpo clínico na I Jornada de Clínica Sintetizada da UFPR, evento de atualização e educação médica continuada."],
+    embed: null,
     source: null
   },
   "viviane-unifm": {
-    title: "Mal de Alzheimer",
-    subtitle: "Dra. Viviane Flumignan na UniFM",
+    title: "Dra. Viviane Flumignan na UniFM",
     date: "25/06/2020",
-    excerpt: "Participação da Dra. Viviane Flumignan na UniFM sobre o Mal de Alzheimer.",
-    p: ["Confira a participação da Dra. Viviane Flumignan no quadro Saúde em Pauta, da UniFM 94.5, conversando sobre o Mal de Alzheimer."],
+    excerpt: "Participação sobre o Mal de Alzheimer.",
+    p: ["Participação da Dra. Viviane Flumignan na UniFM, abordando o Mal de Alzheimer — sintomas, diagnóstico e cuidado."],
     embed: null,
-    source: { name: "UniFM 94.5 · Saúde em Pauta", url: "" }
+    source: null
   },
   "saude-trabalhador": {
     title: "Tratado de Gestão em Saúde do Trabalhador",
@@ -324,11 +340,16 @@ window.ESTUDOS = {
     title: "OPTIMAL STROKE — participe!",
     date: "02/04/2020",
     excerpt: "Estudo sobre o controle da pressão arterial em pacientes que já tiveram AVC.",
-    p: [
-      "O estudo denominado OPTIMAL STROKE é uma parceria com o Ministério da Saúde e o Hospital Albert Einstein (SP). O objetivo é avaliar o controle da pressão arterial em pacientes que já sofreram um AVC (Acidente Vascular Cerebral).",
-      "Embora seja conhecido que a elevação da pressão arterial é um importante fator de risco, ainda não se conhece o valor ideal para que a recorrência do evento não aconteça. Estamos recrutando pessoas com o seguinte perfil: hipertensos e que tenham história de AVC (em qualquer data, antiga ou recente).",
-      "Interessados podem entrar em contato pelo telefone (44) 9 9959-1607 com Luana (coordenadora de pesquisa clínica)."
-    ],
+    p: ["Parceria do Ministéro da Saúde e do Hospital Albert Einstein – SP.",
+        "A pessoa que quiser participar do estudo pode entrar em contato com LUANA pelo telefone 44 9 9959-1607.",
+
+        "O estudo denominado OPTIMAL STROKE é uma parceria com o Ministério da Saúde e o Hospital Alberto Einsten – SP. O objetivo desse estudo é avaliar o controle da pressão arterial em pacientes que já sofreram um AVC (acidente vascular cerebral).",
+        "Embora o conhecimento médico de que a elevação da Pressão arterial é um importante fator de risco , não se conhece o valor ideal para que a recorrência do evento não aconteça. Estamos recrutando pessoas com o seguinte perfil:",
+
+        "  Hipertensos e que tenham história de AVC (em qualquer data antiga ou recente)",
+        "Interessados entrar em contato no telefone 44 9 9959-1607",
+        "com Luana (coordenadora de pesquisa clínica).",
+        ],
     embed: null,
     source: null
   },
@@ -336,25 +357,16 @@ window.ESTUDOS = {
     title: "TRIDENT",
     date: "02/04/2020",
     excerpt: "Estudo sobre redução da pressão arterial na hemorragia intraparenquimatosa aguda.",
-    p: [
-      "O estudo TRIDENT, em parceria com o Ministério da Saúde e o Hospital Albert Einstein (SP), investiga a redução da pressão arterial em pacientes com hemorragia intraparenquimatosa aguda, com o objetivo de melhorar os desfechos.",
-      "Interessados em participar podem entrar em contato pelo telefone (44) 9 9959-1607 com Luana (coordenadora de pesquisa clínica)."
-    ],
+    p: ["O estudo TRIDENT investiga a redução da pressão arterial em pacientes com hemorragia intraparenquimatosa aguda, com o objetivo de melhorar os desfechos. Fale com a nossa equipe para saber como participar."],
     embed: null,
     source: null
   },
   "estudo-alzheimer": {
     title: "Estudo Internacional para a Doença de Alzheimer",
     date: "08/01/2020",
-    excerpt: "Estudo internacional coordenado pela Dra. Viviane Zétola no HC-UFPR.",
-    images: ["assets/estudos/viviane-zetola.jpg"],
-    p: [
-      "O Hospital de Clínicas da UFPR participa de um estudo internacional que testa a eficácia de uma medicação para prevenir o aparecimento da Doença de Alzheimer. A pesquisa, com sede na Inglaterra, recruta voluntários em diversos países até atingir 700 participantes, e é coordenada em Curitiba pela neurologista Dra. Viviane Zétola.",
-      "Podem participar homens e mulheres entre 50 e 85 anos com alguma predisposição ao Alzheimer — por exemplo, histórico da doença na família e queixas leves de esquecimento que ainda não prejudicam o trabalho ou o convívio social. O voluntário não pode ter doença neurológica, histórico de coma ou trauma cerebral, nem estar em uso de medicação, e precisa ter disponibilidade para acompanhamento semanal ao longo de quatro anos.",
-      "A medicação é subcutânea, aplicada mensalmente por quatro anos, sempre com acompanhamento de uma equipe de médicos, psicólogos, enfermeiros e estudantes de Medicina. Os participantes têm acesso gratuito a avaliação neuropsicométrica completa, ressonância magnética de alta sensibilidade e análise do líquor — exames de alta complexidade.",
-      "Informações e inscrições: 0800-7621187 · Rua Atílio Bório, 711 — Alto da Rua XV, Curitiba · (41) 3264-7500 · WhatsApp (41) 99618-2974."
-    ],
+    excerpt: "Estudo internacional coordenado na UFPR desde 2013.",
+    p: ["Estudo internacional sobre a Doença de Alzheimer, coordenado pela Profª Dra. Viviane de Hiroki Flumignan Zétola na UFPR desde 2013, voltado à pesquisa de prevenção, diagnóstico e tratamento."],
     embed: null,
-    source: { name: "Reportagem original de Globo.com", url: "" }
+    source: null
   }
 };
